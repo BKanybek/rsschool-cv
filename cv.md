@@ -1,10 +1,10 @@
 # Kanybek Bolotkanov
 ***
-### My contacts
-* Phone: +996 507022199
-* Email: Kkbolotkanov@gmail.com
-* GitHub: [BKanybek](https://github.com/BKanybek)
-* Linked: [Kanybek Bolotkanov](https://www.linkedin.com/in/kanybek-bolotkanov-94a110234/)
+### My contacts:
+* __Phone:__ +996 507022199
+* __Email:__ Kkbolotkanov@gmail.com
+* __GitHub:__ [BKanybek](https://github.com/BKanybek)
+* __Linked:__ [Kanybek Bolotkanov](https://www.linkedin.com/in/kanybek-bolotkanov-94a110234/)
 ____
 ### About me
 
@@ -12,7 +12,7 @@ My passion is creating and researching various websites. I am an open and sociab
 
 ---
 
-### Skills
+### Skills:
 * HTML, CSS
 * JavaScript
 * React
@@ -20,7 +20,7 @@ My passion is creating and researching various websites. I am an open and sociab
 * Figma
 ***
 
-### Code Example
+### Code Example:
 ```
 function documentCopy(persons, papers){
     if(persons < 0 || papers < 0){
@@ -33,12 +33,12 @@ alert(documentCopy(2,5))
 ```
 ---
 
-### Courses
+### Courses:
 
 *  __Makers Bootcamp__  Javascript Frontend
 * Learnjavascript.ru
 
-### Languages
+### Languages:
 
 English - level A2
 
