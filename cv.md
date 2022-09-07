@@ -10,3 +10,25 @@ ____
 
 My passion is creating and researching various websites. I am an open and sociable person. I will study hard to get knowledges
 
+---
+
+### Skills
+* HTML, CSS
+* JavaScript
+* React
+* Git
+* Figma
+***
+
+### Code Example
+```
+function documentCopy(persons, papers){
+    if(persons < 0 || papers < 0){
+        return 0
+    } else {
+        return persons * papers
+    }
+}
+alert(documentCopy(2,5))
+```
+---
