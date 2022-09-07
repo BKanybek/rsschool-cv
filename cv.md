@@ -34,4 +34,13 @@ alert(documentCopy(2,5))
 ```
 ---
 
+### Courses:
 
+*  __Makers Bootcamp__  Javascript Frontend
+* [learn.javascript.ru](https://learn.javascript.ru/)
+
+### Languages:
+
+English - level A2
+
+---
