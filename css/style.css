@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+}
+.header{
+    margin: 0 auto;
+}
+.header-nav{
+    color: rgb(8, 96, 247);
+}
